@@ -5,8 +5,20 @@ Case study: Lilo Foods and Beverages provides its customers with a range of serv
 About the dataset:
 The dataset provided has one fact table(sales data)which contains all the quantitative information and also has 260,097 rows and 11 columns and a dimension table (product data) which stores attributes that describe the objects in a fact table and has 798 rows and 4 columns. You can download the practice dataset from this repository.
 
-From Food & Beverage Sales Analysis Dashboard, I have tackled data complexities by cleaning, modeling, and processing it with Power Query and DAX. Leveraged Revenue Intelligence, Date Functions, and various charts for insightful visualizations. Key KPIs like total & average revenue generated, total number of orders placed, Average ticket price, Total Revenue by Channel, Month-wise Total Revenue and Total Orders, Top 5 Revenue Generators, Top 5 Revenue Generating Product Groups by Channel, Total Orders by Product Category, Year-wise Total Revenue and Average Revenue, Total Revenue by each Quarter. 
-Charts capture sales trends by total revenue, ATP and total orders. 
+From Food & Beverage Sales Analysis Dashboard, I have tackled data complexities by cleaning, modeling, and processing it with Power Query and DAX. Leveraged Revenue Intelligence, Date Functions, and various charts for insightful visualizations. 
+Key KPIs:
+1. Total & average revenue generated
+2. Total number of orders placed
+3. Average ticket price
+4. Total Revenue by Channel
+5. Month-wise Total Revenue and Total Orders
+6. Top 5 Revenue Generators
+7. Top 5 Revenue Generating Product Groups by Channel
+8. Total Orders by Product Category
+9. Year-wise Total Revenue and Average Revenue
+10. Total Revenue by each Quarter.
+
+Charts capture sales trends by total revenue, ATP and total orders.
 Software used: PowerBI Desktop and Excel.
 
 ⚡ Quick Insights :
