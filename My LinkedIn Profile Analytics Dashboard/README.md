@@ -1,8 +1,8 @@
-------------------------------------Microsoft Power BI Dashboard on "My LinkedIn Profile Analytics"------------------------------------
+# Project: Microsoft Power BI Dashboard on "My LinkedIn Profile Analytics"
 
 In this Project, I have tried to provide a deep visual analysis on My LinkedIn Account (Data Collated from the year of account creation to till now i.e., 2016-2023).
 
-Steps to be followed for LinkedIn Profile Analytics Dashboard:
+### Steps to be followed for LinkedIn Profile Analytics Dashboard:
 1️⃣ Use Microsoft PowerPoint to create dashboard's wireframing.
 2️⃣ Download your LinkedIn profile's complete data in CSV format from Settings & Privacy
 3️⃣ Extract, Transform & Cleaning of complete data in Power Query Editor.
@@ -10,7 +10,7 @@ Steps to be followed for LinkedIn Profile Analytics Dashboard:
 5️⃣ Creating KPIs, Data Visualization & Data Modelling.
 6️⃣ Create & Publish Dashboard with valuable Insights.
 
-Key Insights:
+### Key Insights:
 ◼ Total Connections in my profile
 ◼ Total Reactions in my profile 
 ◼ Total Shares in my profile
@@ -24,7 +24,7 @@ Key Insights:
 ◼ Total Invitations Incoming & Outcoming from my profile
 ◼ Total Messages Recieved & Sent from my profile
 
-Analysis: 
+### Analysis: 
 1. Total connections: 580
 2. Reactions received: 82
 3. Shares: 10
